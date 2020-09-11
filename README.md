@@ -1,8 +1,7 @@
-bridge
-------
+Bridge
+=====
 
-
-This tool runs SQL queries and sends the output to an sftp server.
+The bridge tool runs SQL queries and sends the output to an sftp server.
 
 
 How to Install
