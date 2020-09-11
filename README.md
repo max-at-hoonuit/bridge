@@ -27,11 +27,13 @@ Install scripts
 Create a directory C:\Bridge\src
 
 Place the python scripts into this directory 
+```
 bridge.py
 bridge_config.py
 bridge_date.py
 bridge_extract.py
 bridge_send.py
+```
 
 Install Python Dependencies
 --------------------------
